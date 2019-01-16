@@ -1,0 +1,30 @@
+{
+  "name": "solid-gtm-data-layer",
+  "version": "1.0.0",
+  "description": "Prevents the GTM dataLayer from being redeclared, or redefined / overwritten.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctsstc/solid-gtm-data-layer.git"
+  },
+  "keywords": [
+    "GTM",
+    "dataLayer",
+    "solid",
+    "redeclared",
+    "redefined",
+    "overwritten"
+  ],
+  "author": "Cody Swartz @ https://github.com/ctsstc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ctsstc/solid-gtm-data-layer/issues"
+  },
+  "homepage": "https://github.com/ctsstc/solid-gtm-data-layer#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
