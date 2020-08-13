@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/ctsstc/solid-gtm-data-layer#readme",
   "devDependencies": {
-    "jest": "^24.8.0"
+    "jest": "^26.4.0"
   }
 }
